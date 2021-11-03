@@ -1,0 +1,13 @@
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\bin\Debug\software4.exe.config
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\bin\Debug\software4.exe
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\bin\Debug\software4.pdb
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.csproj.AssemblyReference.cache
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.Fomulario.FormHistoria.resources
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.Fomulario.FormPacientes.resources
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.Fomulario.FormReportes.resources
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.Form1.resources
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.Properties.Resources.resources
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.csproj.GenerateResource.cache
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.csproj.CoreCompileInputs.cache
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.exe
+C:\Users\jose giron\source\repos\Nueva carpeta\software4\obj\Debug\software4.pdb
